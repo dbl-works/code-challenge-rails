@@ -18,7 +18,7 @@
     "@types/lodash": "^4.14.165",
     "@types/node": "^14.14.12",
     "autoprefixer": "^9",
-    "axios": "^0.21.0",
+    "axios": "^0.21.2",
     "babel-eslint": "^10.1.0",
     "babel-preset-typescript-vue": "^1.1.1",
     "core-js": "^3.8.1",
